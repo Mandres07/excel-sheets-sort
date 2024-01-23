@@ -1,0 +1,14 @@
+{
+  "name": "excel-sort-tabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mandres07",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
